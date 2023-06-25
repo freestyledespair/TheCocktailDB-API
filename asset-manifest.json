@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheCocktailDB-API/static/css/main.bff4beda.css",
+    "main.js": "/TheCocktailDB-API/static/js/main.e1f37e5c.js",
+    "index.html": "/TheCocktailDB-API/index.html",
+    "main.bff4beda.css.map": "/TheCocktailDB-API/static/css/main.bff4beda.css.map",
+    "main.e1f37e5c.js.map": "/TheCocktailDB-API/static/js/main.e1f37e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff4beda.css",
+    "static/js/main.e1f37e5c.js"
+  ]
+}
